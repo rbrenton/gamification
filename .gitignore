@@ -130,3 +130,7 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+# vim swap files, starting with .swp
+*.[a-z]wp
